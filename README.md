@@ -1,2 +1,3 @@
 # dumper
 dumps some roblox offsets, very experimental and messy code. 0xd0 = broken
+build and drag robloxplayerbeta.exe onto the built dumper.exe
